@@ -80,6 +80,7 @@ function Particle(x, y, radius, color) {
         //limacon
         //this.x = this.lastMouse.x + (Math.cos(this.radians))*(1+1.5*Math.cos(this.radians)) * this.distanceFromCenter
         //this.y = this.lastMouse.y + (Math.sin(this.radians))*(1+1.5*Math.cos(this.radians)) * this.distanceFromCenter
+        //heart
         //this.x = this.lastMouse.x + ((-16*Math.pow(Math.sin(this.radians), 3)) / 5) * this.distanceFromCenter
         //this.y = this.lastMouse.y + ((-1*(13*Math.cos(this.radians) - (5 * Math.cos(2 * this.radians)) - (2 * Math.cos(3 * this.radians)) - Math.cos(4 * this.radians))) / 5) * this.distanceFromCenter
       
